@@ -1,7 +1,7 @@
 - <h1>👋 Hi, I’m @aynara-codes</h1>
 - <h3>👀 I’m interested in ART </h3>
 - <h3>🌱 I’m currently learning javaScript
-- <h3> - 😄 Pronouns: ... she / her </h3>
+- <h3> - 😄 Pronouns: she / her </h3>
 - <!---💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 - 😄 Pronouns: ... she / her
